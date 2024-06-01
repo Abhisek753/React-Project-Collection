@@ -1,3 +1,9 @@
+
+<h2>
+  Start
+  npm i redux react-redux axios react-router-dom@6
+</h2>
+
 <h2>Add Tailwind</h2>
 <h4>
   npm install -D tailwindcss
